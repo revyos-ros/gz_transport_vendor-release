@@ -2,6 +2,11 @@
 Changelog for package gz_transport_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.0.6 (2025-02-10)
+------------------
+* Bump version to 13.4.1 (`#8 <https://github.com/gazebo-release/gz_transport_vendor/issues/8>`_)
+* Contributors: Addisu Z. Taddese
+
 0.0.5 (2024-07-15)
 ------------------
 * Update vendored package version to 13.4.0
